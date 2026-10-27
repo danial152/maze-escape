@@ -1,8 +1,8 @@
 # Assignment 3. Maze Escape
 
 Student ID:
-Name:
-Group:
+Name: Danial Bolatov
+Group: SE-2519
 Maze size (rows x columns):
 
 This file is the report. Fill it in as you go. How to start: `START_HERE.md`. The task: `docs/Assignment3.pdf`.
